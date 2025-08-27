@@ -1,12 +1,12 @@
 # 가장 필요한것.
 # title:
-# logo:
+# logo: 사진을 docs를 이요해서 upload 한 후 그 주소를 복사해서 여기에 입력한다. 
 # description
 # show_download: true
 # theme:
 
 title: haru
-# logo
+logo: docs/assets/soccer ball.jpg
 description: Online Trainer
 # show_download: true
 theme: jekyll-theme-minimal
